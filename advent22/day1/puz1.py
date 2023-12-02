@@ -1,8 +1,12 @@
+# code for puzzle 1 and 2 both
+
 elf_sum = 0
 max = 0
 file = open("trial.txt", "r")
 
 three_largest = [float("-inf"), float("-inf"), float("-inf")]
+
+# used more verbose O(n) solution instead of O(nlogn) solution
 
 for line in file:
     if(line == '\n'):
