@@ -1,3 +1,5 @@
+// Use map ffs
+
 #include <iostream>
 #include <string>
 #include <vector>
