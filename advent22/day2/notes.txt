@@ -1,6 +1,0 @@
-question:
-part1: rock paper scissor simulator
-part2: simulator based on opp move + what the result should be
-
-new function used: ord()
-converts single-character strings to their unicode codes

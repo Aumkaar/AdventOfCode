@@ -1,4 +1,0 @@
-question:
-given a list of food items each elf has, tell which 3 elves have the highest calories.
-
-Used O(n) solution by using if-else to compare the three highest values instead of O(nlogn) sorting technique which would have been cleaner and concise.
